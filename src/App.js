@@ -1,12 +1,9 @@
 import React from 'react';
-import USeCallBackEmplme from './components/USeCallBackEmplme';
-
-
-
+import CustomHookExample from './components/CustomHookExample';
 
 function App() {
   return <div className='container mt-5'>
-    <USeCallBackEmplme />
+    <CustomHookExample />
   </div>;
 }
 
